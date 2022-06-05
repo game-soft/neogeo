@@ -1,0 +1,17 @@
+{
+  "name": "@game-soft/neogeo",
+  "version": "0.1.0",
+  "main": "lib/main.js",
+  "description": "NEOGEO soft list of release dates",
+  "files": [
+    "README.md",
+    "lib/",
+    "data/soft_list.js"
+  ],
+  "repository": "game-soft/neogeo",
+  "author": "daisuke.takayama",
+  "license": "MIT",
+  "ignore": [
+    ".*"
+  ]
+}
